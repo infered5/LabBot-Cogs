@@ -1,0 +1,14 @@
+{
+    "author": [
+        "infered"
+    ],
+    "short": "Utility to convert units on scanned messages.",
+    "description": "Scans users messages on all channels, checks if it can be converted between metric and freedom units, and does so if requested with emoji reaction.",
+    "disabled": false,
+    "name": "conversion",
+    "tags": [
+        "utility"
+    ],
+    "install_msg": "Usage: `automatic`",
+    "min_bot_version": "3.5.1"
+}
